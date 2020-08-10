@@ -1,0 +1,1 @@
+vhdtdtfi -prj TFG -o C:/Xilinx_RA/TFG/RAM_640x480.tfi -module RAM_640x480 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work RAM_640x480.vhd 

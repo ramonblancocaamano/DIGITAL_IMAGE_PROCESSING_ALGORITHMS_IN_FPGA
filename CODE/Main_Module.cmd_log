@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx_RA/TFG/Main_Module.xst" -ofn "C:/Xilinx_RA/TFG/Main_Module.syr" 

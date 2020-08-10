@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx_RA/TFG/HSL_RAM.xst" -ofn "C:/Xilinx_RA/TFG/HSL_RAM.syr" 

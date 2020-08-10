@@ -1,0 +1,1 @@
+vhdtdtfi -prj TFG -o C:/Xilinx_RA/TFG/Registro_16bits.tfi -module Registro_16bits -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work Registro_16bits.vhd 
